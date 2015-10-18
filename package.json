@@ -1,0 +1,24 @@
+{
+  "name": "node-local-store",
+  "version": "1.0.0",
+  "description": "Basic node.js file storing API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-way/node-local-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-way/node-local-store/issues"
+  },
+  "homepage": "https://github.com/matt-way/node-local-store",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3"
+  }
+}
