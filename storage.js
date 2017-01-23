@@ -1,7 +1,7 @@
 
 var fs = require('fs');
 
-var loc = './store/';
+var loc = process.ENV. './store/';
 
 exports.save = function(req, res, next){
 
